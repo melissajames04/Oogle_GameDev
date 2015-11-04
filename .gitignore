@@ -12,6 +12,15 @@
 /*.userprefs
 /*.pidb
 /*.booproj
+/Assets/*.prefab
+/Assets/*.FBX
+/Assets/*/.prefab
+/Assets/*/.psd
+/Assets/*/.FBX
+/Assets/*/.jpg
+/Assets/*/.mat
+/Assets/*/.asset
+
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
@@ -62,3 +71,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.jpg
+*.mat
+*.meta
+*.FBX
+*.exr
+*.asset
+*.prefab
